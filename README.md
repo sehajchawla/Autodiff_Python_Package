@@ -23,7 +23,7 @@ We invite you to use **autodiff** package and help us improve it!
 
 
 
-The link for full documentation is [here](https://github.com/AsiaUnionCS107/cs107-FinalProject/blob/Milestone_3/docs/documentation.md). 
+The link for full documentation is [here](https://github.com/sehajchawla/Autodiff_Python_Package/blob/main/docs/documentation.md). 
 
 ## Quick Start
 
